@@ -30,7 +30,7 @@ Im **Bien Jules Ngaosi** also known as **bieny**, and I'm a **top GitHub committ
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=bienjulesngaosi&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 -----
 
