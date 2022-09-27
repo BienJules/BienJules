@@ -29,8 +29,6 @@ Im **Bien Jules Ngaosi** also known as **bieny**, and I'm a **top GitHub committ
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
-### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=bienjulesngaosi&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 -----
 
